@@ -1,1 +1,1 @@
-# Pure-Scrims---Legal-Documentation
+# purescrims-documentation
